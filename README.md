@@ -61,6 +61,7 @@ print(sol.numRabbits([1, 1, 1, 2, 3, 3, 4]))  # Output: 9
 - 0 <= answers[i] < 1000
 
 # 📺 From: Coding Moves
-Follow <a href="https://wwww.youtube.com@Coding_Moves">Coding Moves</a> on YouTube for more awesome coding content, explanations, and project tutorials!
+Follow <a href="https://www.youtube.com/@Coding_Moves" target="_blank">Coding Moves</a>
+ on YouTube for more awesome coding content, explanations, and project tutorials!
 
 
